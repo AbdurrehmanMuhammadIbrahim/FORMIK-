@@ -1,0 +1,22 @@
+
+body{
+  padding: 0%;
+  margin: 0%;
+  background-image: url("https://image.shutterstock.com/image-photo/old-brick-black-color-wall-260nw-1605128917.jpg");
+  background-repeat: no-repeat;
+background-size: cover;
+  }
+  
+.form{
+/* background-image: url("https://t4.ftcdn.net/jpg/01/19/11/55/360_F_119115529_mEnw3lGpLdlDkfLgRcVSbFRuVl6sMDty.jpg"); */
+color: white;
+padding: 2%;
+
+}
+.text{
+  background-color:white;
+  opacity: 0.5;
+  border: 1px solid black;
+  border-radius: 12px;
+ color: aliceblue;
+}
